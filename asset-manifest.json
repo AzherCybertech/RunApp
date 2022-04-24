@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RunApp/static/css/main.e6c13ad2.css",
+    "main.js": "/RunApp/static/js/main.9d07e90b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/RunApp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/RunApp/index.html",
+    "main.e6c13ad2.css.map": "/RunApp/static/css/main.e6c13ad2.css.map",
+    "main.9d07e90b.js.map": "/RunApp/static/js/main.9d07e90b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/RunApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9d07e90b.js"
+  ]
+}
